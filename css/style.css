@@ -1,0 +1,148 @@
+.grid-container {
+    display: grid;
+  }
+
+#generalContainer{
+    padding-left: 210px;
+}
+
+#lf1{
+    width: 100px;
+    height: auto;
+    padding-left: 780px;
+}
+
+#lf2{
+    width: 100px;
+    height: auto;
+
+}
+
+#lf3{
+    width: 100px;
+    height: auto;
+}
+
+#releaseDate{
+    padding-left: 450px;
+}
+
+#releaseDate{
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+    font-family: fantasy;
+}
+
+#talpa1{
+    width: auto;
+    height: 340px;
+    z-index: 1;
+    position: absolute;
+    left: 270px;
+
+}
+
+#volpe1{
+    width: auto;
+    height: 340px;
+    z-index: 2;
+    position: absolute;
+    left: 270px;
+}
+
+#talpa2{
+    width: auto;
+    height: 340px;
+    z-index: 1;
+    position: absolute;
+    left: 800px;
+
+}
+
+#volpe2{
+    width: auto;
+    height: 340px;
+    z-index: 2;
+    position: absolute;
+    left: 800px;
+}
+
+#talpa3{
+    width: auto;
+    height: 340px;
+    z-index: 1;
+    position: absolute;
+    left: 1270px;
+
+}
+
+#volpe3{
+    width: auto;
+    height: 340px;
+    z-index: 2;
+    position: absolute;
+    left: 1270px;
+}
+
+#talpa4{
+    width: auto;
+    height: 340px;
+    z-index: 1;
+    position: absolute;
+    left: 800px;
+
+}
+
+#volpe4{
+    width: auto;
+    height: 340px;
+    z-index: 2;
+    position: absolute;
+    left: 800px;
+}
+
+#talpa5{
+    width: auto;
+    height: 340px;
+    z-index: 1;
+    position: absolute;
+    left: 1270px;
+
+}
+
+#volpe5{
+    width: auto;
+    height: 340px;
+    z-index: 2;
+    position: absolute;
+    left: 1270px;
+}
+
+#talpa6{
+    width: auto;
+    height: 340px;
+    z-index: 1;
+    position: absolute;
+    left: 270px;
+
+}
+
+#volpe6{
+    width: auto;
+    height: 340px;
+    z-index: 2;
+    position: absolute;
+    left: 270px;
+}
+
+#Button{
+    position: absolute;
+    left: 925px;
+}
+
+#Points{
+    position: absolute;
+    top: 850px;
+    left: 940px;
+}
